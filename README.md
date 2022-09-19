@@ -18,9 +18,4 @@ Here are some ideas to get you started:
 
 
 <h3> My Current Stack: </h3>
-
-![postgrei](https://user-images.githubusercontent.com/98973604/191025773-d408f43c-bc50-4a4f-8fcb-b1e8101401f2.png)
-
-![physics-350x233](https://user-images.githubusercontent.com/98973604/191066692-69eaf143-ef3a-42a8-8a68-fe4ff484637a.png)
-
-<img src="![postgrei](https://user-images.githubusercontent.com/98973604/191025773-d408f43c-bc50-4a4f-8fcb-b1e8101401f2.png)" width="100" height="100">
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
