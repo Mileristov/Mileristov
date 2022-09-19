@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> My Current Stack: </h3>
 
-[![postgrei](https://user-images.githubusercontent.com/98973604/191025773-d408f43c-bc50-4a4f-8fcb-b1e8101401f2.png)][1]
+![postgrei](https://user-images.githubusercontent.com/98973604/191025773-d408f43c-bc50-4a4f-8fcb-b1e8101401f2.png)
 
 
 
