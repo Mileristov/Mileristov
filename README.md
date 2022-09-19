@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <h3> My Current Stack: </h3>
 
 ![postgrei](https://user-images.githubusercontent.com/98973604/191025773-d408f43c-bc50-4a4f-8fcb-b1e8101401f2.png)
-https://pics.freeicons.io/uploads/icons/png/20167174151551942641-512.png
-
+<a href="https://www.flaticon.com/free-icons/postgre" title="postgre icons"></a>
 
 
