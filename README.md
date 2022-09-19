@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything with <b> React </b>
 
 
-### <h3> Contact me on </h3>
+### <h3> Contact me on: </h3>
 
 [<img align="" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][Linkedin] [<img align="" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 
