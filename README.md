@@ -9,7 +9,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on couple projectss for friends, <b>I am Open to work on new projects and challenges! </b>
+- 🔭 I’m currently working on couple projects for friends, <b>I am Open to work on new projects and challenges! </b>
 - 🌱 I’m currently learning Redux, Typescript, Tailwind.
 - 👯 I’m looking to collaborate on anything with <b> React </b>
 
