@@ -1,6 +1,6 @@
 ### <h2> Hi there 👋 </h2>
 
-### <h3> I am a Frontend Developer currently living in Germany with focus on Javascript and React. </h3>
+### <h3> I'm a frontend developer who loves building web apps. I have experience with React, Next.js, and Vue.js, and I enjoy adding animations with Framer Motion. I focus on creating clean, user-friendly interfaces and am always eager to learn new things in web development. </h3>
 
 
 <!--
@@ -9,9 +9,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on couple projects for friends, <b>I am open to work on new projects and challenges! </b>
-- 🌱 I’m currently learning Redux, Typescript, Tailwind.
-- 👯 I’m looking to collaborate on anything with <b> React </b>
 
 
 ### <h3> Contact me on: </h3>
